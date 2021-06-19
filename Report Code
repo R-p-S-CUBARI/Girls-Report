@@ -1,0 +1,35 @@
+{
+  "title": "Girls Who Report The Color Of Their Underwear To Me Everyday For Some Reason",
+  "description": "What the title says ^",
+  "artist": "Dojiro",
+  "author": "Dojiro",
+  "cover": "https://i.imgur.com/k50Fh3c.jpg",
+  "chapters": {
+    "15": {
+      "title": "For Some Reason, The Wife Of My Boss Reports The Color Of Her Underwear Every Time I Visit Their House",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/Y749uwN/"
+      },
+      "last_updated": "1621866222"
+    },
+    
+   "16": {
+      "title": "For Some Reason, The New Employee Reports The Color Of Her Underwear To Me Every Morning",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/SS4OXgq/"
+      },
+      "last_updated": "1621866549"
+    },
+    
+   "17": {
+      "title": "For Some Reason, The New Employee Reports The Color Of Her Underwear To Me Every Morning - Bussiness Trip",
+      "volume": "",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/MjLs25P/"
+      },
+      "last_updated": "1621866909"
+    }
+  }
+}
